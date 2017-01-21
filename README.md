@@ -1,2 +1,2 @@
 # myHealthExpenseTracker
-Software to track my health expense
+Software to track my health expense.
